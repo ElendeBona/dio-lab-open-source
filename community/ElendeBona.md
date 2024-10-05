@@ -5,13 +5,11 @@
 
 <div align="left">
 
-📚 Sou a Élen, moro com minha família no Sul do Brasil. Graduada em Administração com ênfase em Marketing pela PUCRS e pós-graduada em Gestão de Estoques e Logística em E-commerce pela Unyleya. Trago na bagagem expertise em Marketing Digital, e-commerce, desde estratégia, funil, KPIs, desempenho de campanhas e mídias e demais rotinas e desafios da área.  
+📚 Sou a Élen, moro com minha família no Sul do Brasil. Graduada em Administraçãoem Marketing e pós-graduada em Gestão de Estoques e Logística em E-commerce. Trago na bagagem expertise em Marketing Digital, e-commerce, desde estratégia, funil, KPIs, desempenho de campanhas e mídias e demais rotinas e desafios da área.  
 
-Migrei para a área de Dados, atuando em times de Dados, BI ou TI principalmente com ferramentas como Power BI (M e DAX), Looker, GA4, ETL, modelagem de dados, e no projeto mais desafiador, apoiei na criação de toda a estrutura de DW e também a pipeline de dados para a pavimentação da cultura data driven, em conjunto com demais times.
+Migrei para a área de Dados e estou à procura de um novo **desafio profissional** em Data que eleve minhas habilidades em novas tecnologias como ELT automatizado com integrações de fontes diversas, aperfeiçoamento de novas ferramentas de ETL, uso de IA para auxiliar em várias tarefas, queries  e scripts, orquestração de dados, modelagem e estruturação dos dados em KPIs valiosos aos times de negócio, treinar modelos que auxiliem a aperfeiçoar esses dados, cálculos e testes para obter melhores resultados, aprimorar linguagens em Python, PySpark, SQL, Clusters em Databricks, GCP, AWS, Azure.
 
-Estou à procura de um novo **desafio profissional** em Data que eleve minhas habilidades em novas tecnologias como ELT automatizado com integrações de fontes diversas, aperfeiçoamento de novas ferramentas de ETL, uso de IA para auxiliar em várias tarefas, queries  e scripts, orquestração de dados, modelagem e estruturação dos dados em KPIs valiosos aos times de negócio, treinar modelos que auxiliem a aperfeiçoar esses dados, cálculos e testes para obter melhores resultados, aprimorar linguagens em Python, PySpark, SQL, Clusters em Databricks, GCP, AWS, Azure.
-
-Participo do #BootCamp de Engenharia de Dados com Python – DIO e NTT DATA# com o intuito de maximizar competências de engenharia às minhas habilidades como analista almejando novas posições profissionais.
+Participando do #BootCamp de Engenharia de Dados com Python – DIO e NTT DATA# com o intuito de maximizar competências de engenharia às minhas habilidades como analista almejando novas posições profissionais.
 
 Também participei recentemente do #TecHub de IA Generativa para Mulheres voltado a Vertex IA#, com RAG, Labs, agentes Bots e modelos de machine learning.
 
@@ -37,11 +35,8 @@ Meu portfólio no GitHub e na comunidade DIO reflete minha jornada e crescimento
 ##💻 **Competências:**
 
 ![SQL](https://img.shields.io/badge/-SQL-gray?style=flat-squareflat&logo=SQL)
-
 ![Github](https://img.shields.io/badge/-Github-gray?style=flat-squareflat-square&logo=Github)
-
 ![Git](https://img.shields.io/badge/-Git-gray?style=flat-square&logo=Git&logoColor=white)
-
 ![Power BI](https://img.shields.io/badge/-Power%20BI-gray?style=flat-squareflat&logo=Power-BI)
 ![Looker](https://img.shields.io/badge/Looker-gray?style=flat-squareflat&logo=Looker)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
